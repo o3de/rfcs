@@ -16,7 +16,7 @@
 
 Format of RFC folder naming:
 ```
-RFC-CNT-<YYYYMMDD>-1 (incremental)
+RFC-CNT-(YYYYMMDD)-1 (incremental)
 ```
 example: 
 ```RFC-CNT-20210513-1```
