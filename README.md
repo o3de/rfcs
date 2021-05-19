@@ -1,7 +1,7 @@
 # RFCs
 RFCs for the Open 3D Foundation products.
 
-Anyone can author a proposal and submit it as an RFC document. RFCs should follow the formatting defined in the RFC template. While not all sections will be directly applicable to a given proposal, authors should ensure that their proposals clearly explain the proposal being discussed, the problem that it solves, and the approach being considered. When a proposal is submitted to the RFC repo, it will be in the 'proposed' state. As comments are added and the proposal is reviewed, it may be approved by a SIG and moved into an 'accepted' state.    
+Anyone can author a proposal and submit it as an RFC document. RFCs should follow the formatting defined in the [RFC template](RFC-Template.md). While not all sections will be directly applicable to a given proposal, authors should ensure that their proposals clearly explain the proposal being discussed, the problem that it solves, and the approach being considered. When a proposal is submitted to the RFC repo, it will be in the 'proposed' state. As comments are added and the proposal is reviewed, it may be approved by a SIG and moved into an 'accepted' state.    
 
 ### Submitting an RFC
 When you are proposing an RFC, submit a pull request to the subdirectory for the appropriate special interest group, making sure to follow the naming convention described in [sigs/readme.md](sigs/readme.md). The root of your pull request should be a directory with all necessary files. The body of the RFC should be in your RFC's readme.md file and can reference additional artifacts within the RFC folder. 
