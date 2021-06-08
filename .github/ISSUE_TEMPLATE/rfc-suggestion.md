@@ -15,9 +15,9 @@ A hastily proposed RFC can hurt its chances of acceptance. Low-quality proposals
 Although there is no single way to prepare for submitting an RFC, it is generally a good idea to pursue feedback from other project members beforehand. Keep in mind that you want other members to contribute and back your suggestion, which can drastically improve the chances of implementation.
 
 The most common preparations for writing and submitting an RFC include:
-Talking the idea over on our Discord server.
-Creating a discussion on our GitHub RFCs discussions page.
-Occasionally posting "pre-RFCs" on the GitHub RFCs discussion page.
+- Talking the idea over on our Discord server.
+- Creating a discussion on our GitHub RFCs discussions page.
+- Occasionally posting "pre-RFCs" on the GitHub RFCs discussion page.
 You may file issues in the RFCs repo for discussion, but these are not actively looked at by the teams.
 
 As a rule of thumb, receiving encouraging feedback from long-standing community members is a good indication that the RFC is worth pursuing.
