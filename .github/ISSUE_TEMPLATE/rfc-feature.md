@@ -1,3 +1,12 @@
+---
+name: RFC Feature request
+about: Create Feature RFC for this project
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 # O3DE RFC Feature Template
 This RFC feature template should be used for any feature that is not a bug or a substantial reorganization of the O3DE product.
 

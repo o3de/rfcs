@@ -1,3 +1,12 @@
+---
+name: RFC Suggestion request
+about: Create Suggestion RFC for this project
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 # O3DE Suggestion RFC Template
 This RFC template should be used for any suggestion that is not based upon code or content related to the O3DE product itself. This template is for proposing new process models, approaches, or ideas to improve the O3DE community.
 
