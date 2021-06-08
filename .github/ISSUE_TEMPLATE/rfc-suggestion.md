@@ -18,6 +18,10 @@ The most common preparations for writing and submitting an RFC include talking t
 
 As a rule of thumb, receiving encouraging feedback from long-standing members of the community is a good indication that the RFC is worth pursuing.
 
+When using this template, you do not have to fill out every question below. The questions are there for guidance.
+
+# ----- DELETE EVERYTHING FROM THE TOP TO THE SUMMARY LINE BELOW WHEN USING TEMPLATE ----- #
+
 ### Summary:
 Single paragraph explanation of the suggestion
 
