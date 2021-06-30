@@ -1,6 +1,6 @@
 ---
 name: RFC Suggestion request
-about: Create Suggestion RFC for this project
+about: Create Suggestion RFC for this project not based upon code or content related to the O3DE product itself
 title: ''
 labels: ''
 assignees: ''
