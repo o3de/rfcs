@@ -1,6 +1,6 @@
 ---
 name: RFC Feature request
-about: Create Feature RFC for this project
+about: Create Feature RFC that is not a bug or a substantial reorganization of the O3DE product
 title: ''
 labels: ''
 assignees: ''
