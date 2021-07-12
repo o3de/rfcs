@@ -50,6 +50,7 @@ Why is this important? What are the use cases? What will it do once completed?
 - Detail how it can be best presented and how it is used as an extension or as a standalone tool used with O3DE.
 - Explain if and how it may change the approach of how individuals would use the platform and if any documentation must be changed or reorganized.
 - Explain how it would be taught to new and existing O3DE users.
+- Include any significant impacts to documentation such as; Required official video updates, required product screenshot updates (i.e. Editor UX changes), new documentation site sections. 
 
 ### Are there any open questions?
 - What are some of the open questions and potential scenarios that should be considered?
