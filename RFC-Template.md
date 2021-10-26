@@ -21,14 +21,14 @@ Why is this important? What are the use cases? What will it do once completed?
 - Explain the design of the feature with enough detail that someone familiar with the environment and framework can understand the concept and be able to explain it to others. 
 - It should include at least one end to end example of how it will be used and specific details with outlying use cases. 
 
-- If there is any new terminiology, it should be defined here.
+- If there is any new terminology, it should be defined here.
 
 ### Technical design description:
-- Explain the technical portion of the work in enough detail that members can implment the feature. 
+- Explain the technical portion of the work in enough detail that members can implement the feature. 
 
 - Explain any API or process changes required to implement this feature
 
-- This section should relate to the feature design description by reference and explain in more detail how it makes the feature edesign xamples work.
+- This section should relate to the feature design description by reference and explain in more detail how it makes the feature design examples work.
 
 - This should also provide detailed information on compatibility with different hardware platforms.
 
@@ -40,7 +40,7 @@ Why is this important? What are the use cases? What will it do once completed?
 - Explain any disadvantages for someone to use this feature
 
 ### How will this be implemented or integrated into the O3DE environment?
-- Explain how this will be integrated within codebase of O3DE and any special library or technical stack reqruiements.
+- Explain how this will be integrated within codebase of O3DE and any special library or technical stack requirements.
 
 ### Are there any alternatives to this feature?
 - Provide any other designs that have been considered. Explain what the impact might be to not doing this.
